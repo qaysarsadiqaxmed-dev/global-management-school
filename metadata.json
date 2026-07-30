@@ -1,0 +1,6 @@
+{
+  "name": "Global Management School",
+  "description": "Advanced Multi-Campus Management School OS and Academic Governance Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
